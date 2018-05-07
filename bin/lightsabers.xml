@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<sabers>
+	<saber>
+		<id>4456</id>
+		<name>Sith Saber</name>
+		<available>27</available>
+		<crystal>
+			<name>Kadril saber</name>
+			<color>blue</color>
+		</crystal>
+	</saber>
+	<saber>
+		<id>7766</id>
+		<name>Master Jedi Saber</name>
+		<available>13</available>
+		<crystal>
+			<name>Obi Wan saber</name>
+			<color>green</color>
+		</crystal>
+	</saber>
+</sabers>
